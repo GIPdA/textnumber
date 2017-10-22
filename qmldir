@@ -1,0 +1,4 @@
+module TextNumber
+TextNumberField 1.0 TextNumberField.qml
+Validator 1.0 TextNumberValidator.qml
+Functions 1.0 TextNumberFunctions.js
